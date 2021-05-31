@@ -1,0 +1,35 @@
+body{background-color: black;
+font-family: aerial,sans-serif;}
+.sub{height:446px;
+  width:540px;
+background-color: #022e57;
+padding-right: 200px;}
+p{color: white;}
+h1{color: white;}
+h3{color: white;}
+.Main{margin: 150px;}
+img{position: absolute;
+left: 790px;
+top: 150px;
+background-color: hsl(277, 64%, 61%);}
+span{color: violet;}
+.left{position: static;
+  left: 20px;
+  bottom: 20px;}
+  .left{position: absolute;
+    left: 200px;
+    bottom: 200px;
+  color: violet;}
+    .mid{position: absolute;
+      left: 350px;
+      bottom: 200px;
+    color: violet;}
+.right{position: absolute;
+  left: 500px;
+  bottom: 200px;}
+  h3{color: violet;}
+  h1{padding-top: 50px;
+    padding-left: 50px;}
+.lol{text-align: left;
+padding-top: 30px;
+padding-left: 50px;}
